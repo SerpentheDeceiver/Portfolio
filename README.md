@@ -1,6 +1,6 @@
 # 🌐 Ganesh's Portfolio Website
 
-This is my **personal portfolio website** built to showcase my projects, skills, and certifications with a **minimal yet professional design**. You can visit it right now at https://aboutganesh.vercel.app/.
+This is my **personal portfolio website** built to showcase my projects, skills, and certifications with a **minimal yet professional design**.
 
 ## 🚀 Tech Stack
 
